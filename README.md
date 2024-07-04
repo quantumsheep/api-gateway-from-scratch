@@ -1,5 +1,7 @@
 # API Gateway from scratch
 
+If you want to start this project, please fork the repository to reference your work.
+
 ## Objective
 
 Establish a micro-services architecture based on the provided diagrams. The Users Service's signup and login endpoints should be accessible without requiring authentication. However, for all other services, authentication is a must.
